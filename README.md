@@ -54,8 +54,8 @@
 -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantu001&show_icons=true&locale=en&layout=compact" alt="mantu001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantu-tiwari&show_icons=true&locale=en&layout=compact" alt="mantu-tiwari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantu001&show_icons=true&locale=en" alt="mantu001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantu-tiwari&show_icons=true&locale=en" alt="mantu-tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mantu001&" alt="mantu001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mantu-tiwari&" alt="mantu-tiwari" /></p>
