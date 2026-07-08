@@ -9,17 +9,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantu001&label=Profile%20views&color=0e75b6&style=flat" alt="mantu001" /> </p>
 
 - 👨‍💻 All of my Profiles are available at 
-   <a href="https://linktr.ee/MantukrTiwari" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3007782/file/original-8f257cba713a7493c7fb30c5cbcb9e45.png?resize=1600x1200" alt="https://linktr.ee/MantukrTiwari" height="30" width="40" /></a>
+   <a href="https://linktr.ee/mantu_tiwari" target="blank"><img align="center" src="https://cdn.dribbble.com/userupload/3007782/file/original-8f257cba713a7493c7fb30c5cbcb9e45.png?resize=1600x1200" alt="https://linktr.ee/MantukrTiwari" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mantu-kumar-tiwari-553160262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mantu-kumar-tiwari-553160262" height="30" width="40" /></a>
-<a href="https://instagram.com/mantu_kr_tiwari_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mantu_kr_tiwari_01" height="30" width="40" /></a>
-<a href="https://fb.com/mantu kr tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mantu kr tiwari" height="30" width="40" /></a>
-<a href="https://twitter.com/mantu kumar tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mantu kumar tiwari" height="30" width="40" /></a>
-<a href="https://www.threads.net/@mantu_kr_tiwari_01" target="blank"><img align="center" src="https://i.pinimg.com/originals/9f/ce/f7/9fcef7b1abac126b507befcc77a0c277.png" alt="@mantu_kr_tiwari_01" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mantu9tm8d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mantu9tm8d" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mantu_kr_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mantu_kr_tiwari" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mantu-tiwari-553160262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mantu-kumar-tiwari-553160262" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mantutiwari.in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mantu_kr_tiwari_01" height="30" width="40" /></a>
+<a href="http://facebook.com/mantutiwari.in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mantu kr tiwari" height="30" width="40" /></a>
+<a href="https://x.com/mantutiwari_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mantu kumar tiwari" height="30" width="40" /></a>
+<a href="https://www.threads.com/@mantutiwari.in?hl=en" target="blank"><img align="center" src="https://i.pinimg.com/originals/9f/ce/f7/9fcef7b1abac126b507befcc77a0c277.png" alt="@mantu_kr_tiwari_01" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/mantukumartiwari?tab=overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mantu9tm8d" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mantu_tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mantu_kr_tiwari" height="30" width="40" /></a>
 
 </p>
 
